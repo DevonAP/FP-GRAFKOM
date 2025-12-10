@@ -1335,7 +1335,7 @@
     "m_Hidden": false,
     "m_PerRendererData": false,
     "m_customAttributes": [],
-    "m_Value": 1.0,
+    "m_Value": 10.0,
     "m_FloatType": 1,
     "m_RangeValues": {
         "x": 0.009999999776482582,
@@ -1451,8 +1451,8 @@
     "m_ObjectId": "204ced87e1204c4fbded07e53b136912",
     "m_Title": "Normal From Texture",
     "m_Position": {
-        "x": -954.22216796875,
-        "y": 978.22216796875
+        "x": -954.2222900390625,
+        "y": 978.2222900390625
     }
 }
 
@@ -3950,7 +3950,7 @@
     "m_ObjectId": "9164d089302240a58ced01d5191d7452",
     "m_Title": "Tint From Texture",
     "m_Position": {
-        "x": -1486.6666259765625,
+        "x": -1486.666748046875,
         "y": -366.22222900390627
     }
 }
@@ -5857,8 +5857,8 @@
     "m_ObjectId": "fe00db9595114cc48d643da69b2f68f3",
     "m_Title": "Reflection",
     "m_Position": {
-        "x": -718.22216796875,
-        "y": 394.2222900390625
+        "x": -718.2222900390625,
+        "y": 394.22222900390627
     }
 }
 
